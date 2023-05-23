@@ -174,3 +174,5 @@ def handle_private(message,chatid,msgid):
 
 # infinty polling
 bot.run()
+
+#Hello Bro Please Update Ur Repo It's Not Working On Koyeb/Heroku/Render ! Please Update Requirements which have been outdated !
