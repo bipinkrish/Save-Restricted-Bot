@@ -4,7 +4,7 @@ from pyrogram import Client, filters, __version__
 from pyrogram.raw.all import layer
 from pyrogram.errors import UserAlreadyParticipant, InviteHashExpired, UsernameNotOccupied
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-import web_server
+from web_support import web_server
 from aiohttp import web
 import time
 import os
