@@ -1,3 +1,2 @@
-pyrogram
-tgcrypto
-flask
+pyrogram==1.2.9
+python-dotenv==0.19.2
