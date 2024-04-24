@@ -133,9 +133,9 @@ def save(client: pyrogram.client.Client, message: pyrogram.types.messages_and_me
 					bot.send_message(message.chat.id,f"**The username is not occupied by anyone**", reply_to_message_id=message.id)
 					return
 				try:
-				        if '?single' not in message.text:
+					if '?single' not in message.text:
 						bot.copy_message(message.chat.id, msg.chat.id, msg.id, reply_to_message_id=message.id)
-                                        else:
+					else:
 						bot.copy_media_group(message.chat.id, msg.chat.id, msg.id, reply_to_message_id=message.id)
 				except:
 					if acc is None:
