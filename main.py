@@ -71,7 +71,13 @@ def send_start(client: pyrogram.client.Client, message: pyrogram.types.messages_
 
 @bot.on_message(filters.text)
 def save(client: pyrogram.client.Client, message: pyrogram.types.messages_and_media.message.Message):
-	print(message.text)
+    print(message.text)
+
+    # Filter messages here
+    allowed_types = ["Video", "Document", "Photo", "Audio"]
+    if message.media and message.media.type not in allowed_types:
+        return  # Ignore sending the message
+
 
 	# joining chats
 	if "https://t.me/+" in message.text or "https://t.me/joinchat/" in message.text:
