@@ -6,10 +6,10 @@
 
 ## Variables
 
-- `HASH` Your API Hash from my.telegram.org
-- `ID` Your API ID from my.telegram.org
-- `TOKEN` Your bot token from @BotFather
-- `STRING` Your session string, you can get it at [gist](https://gist.github.com/bipinkrish/0940b30ed66a5537ae1b5aaaee716897#file-main-py) and run it locally
+- `HASH`11303831
+- `ID` 70965cd64adc90045be6b514d7e4d790
+- `TOKEN` 7448956658:AAEdX_glGkAVI5pv8tMjksEo6z3RtpI5RVk
+- `STRING` [(https://gist.github.com/To33mmy17/de7b434512bfff9f376ee00bebca3b7c.js)
 
 ---
 
@@ -31,7 +31,7 @@ __FOR BOT CHATS__
 _send link with '/b/', bot's username and message id, you might want to install some unofficial client to get the id like below_
 
 ```
-https://t.me/b/botusername/4321
+https://t.me/b/@Trooooperbot/4321
 ```
 
 __MULTI POSTS__
