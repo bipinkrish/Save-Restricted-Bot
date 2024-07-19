@@ -6,10 +6,10 @@
 
 ## Variables
 
-- `HASH` Your API Hash from my.telegram.org
-- `ID` Your API ID from my.telegram.org
-- `TOKEN` Your bot token from @BotFather
-- `STRING` Your session string, you can get it at [gist](https://gist.github.com/bipinkrish/0940b30ed66a5537ae1b5aaaee716897#file-main-py) and run it locally
+- `HASH` 8ce3a335da4143ea22c5305782cef359
+- `ID` 21827365
+- `TOKEN` 6946570760:AAFYdjzW7Pfin5qJUjUuETRCgIEq0I7GYFA
+- `STRING`BQFNDyUAmKXZYrq42xzvdNslD3fBexP5wim_u3uqpg7fapQggA_uDQtKR33dOEn5TS0XxmIsk-v1IxzLnw7AIhgInAjHLcqiMMUhPTcm9VjxZ9wfKJdmYJ8RfJ6WwlL5Bta_rt3Pdgy0ruSKZgVQAVxvMJ2jymlylulNB6KV4mw580f7H6d9JWM6NdWsXZ2KpCgpWTiT3ZiTv0BRscaa6MB5G8e1djuCqCin6Nb3ySQVAPd2lP-hTTtwtojMSd03E66rQZeU4jIp2YH0dWFoveYFwY8RgXs5NFhRaB2n0yVHureUIxSDqwJupS6OeQhAbVZUY7idXsaGlWGILwdYqjrvtZ84eAAAAAGGCZh9AA ) and run it locally
 
 ---
 
